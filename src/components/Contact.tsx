@@ -72,12 +72,12 @@ export default function Contact() {
         </div>
 
         {/* Location */}
-        <div className="mt-12 flex justify-center text-gray-500">
+        {/* <div className="mt-12 flex justify-center text-gray-500">
           <div className="flex items-center gap-2">
             <MapPin size={18} />
             <span>Cairo, Egypt</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
