@@ -22,7 +22,7 @@ export default function About() {
           {/* Actions */}
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://drive.google.com/file/d/10J_9PkYs8D3abNrbZez7cpG27MUpCUhM/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZLw2KkHVXCKbzCJ6emfAqGJeI5MDy5IT/view?usp=sharing"
               className="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 text-white
                          rounded-lg hover:bg-blue-700 transition shadow"
             >
