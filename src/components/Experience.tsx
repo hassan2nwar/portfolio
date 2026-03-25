@@ -11,11 +11,10 @@ interface ExperienceItem {
 const experiences: ExperienceItem[] = [
   {
         company: 'Westview International Language School (WILS)',
-        title: 'ICT Teacher / Coding',
-        role: 'American High School',
+        role: 'ICT Teacher / Coding for American High School',
+        period: 'Fab 2026 – Present',
         responsibilities: 'Teaching Python, managing databases, developing desktop applications, and introducing AI concepts to students.',
-        startDate: '2026-02-08',
-        endDate: 'Present'
+        
   },
   {
     company: 'Black Horse Course',
