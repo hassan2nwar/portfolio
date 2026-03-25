@@ -13,6 +13,7 @@ const experiences: ExperienceItem[] = [
         company: 'Westview International Language School (WILS)',
         role: 'ICT Teacher / Coding for American High School',
         period: 'Fab 2026 – Present',
+        location: 'Giza',
         responsibilities: 'Teaching Python, managing databases, developing desktop applications, and introducing AI concepts to students.',
         
   },
