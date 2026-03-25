@@ -19,7 +19,7 @@ const experiences: ExperienceItem[] = [
         ],        
   },
   {
-    company: 'Black Horse Course',
+    company: 'Black Horse Courses',
     role: 'Programming Instructor',
     period: 'May 2025 – Nov 2025',
     location: 'Cairo',
